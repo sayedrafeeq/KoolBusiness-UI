@@ -15,8 +15,8 @@ https://sayedrafeeq.github.io/koolbusiness-ui/car-listing.html
 
 NEW-DESIGN-CONCEPTS:
 
-https://github.com/sayedrafeeq/KoolBusiness-UI/blob/master/%40UI-Updates/Home_Page-1.png
-https://github.com/sayedrafeeq/KoolBusiness-UI/blob/master/%40UI-Updates/Home_Page-.png
+https://github.com/sayedrafeeq/KoolBusiness-UI/blob/master/UI-Updates/Home_Page-1.png
+https://github.com/sayedrafeeq/KoolBusiness-UI/blob/master/UI-Updates/Home_Page-2.png
 
 ---
 
