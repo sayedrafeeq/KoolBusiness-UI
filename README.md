@@ -3,15 +3,15 @@ Kool Business - Front-end UI Framework
 
 Online Demo:
 
-https://sayedrafeeq.github.io/koolbusiness-ui/index.html 
+https://sayedrafeeq.github.io/KoolBusiness-UI/index.html 
 
 Car-Category-Grid-View:
 
-https://sayedrafeeq.github.io/koolbusiness-ui/car-grid.html 
+https://sayedrafeeq.github.io/KoolBusiness-UI/car-grid.html 
 
 Car-Category-Listing-View:
 
-https://sayedrafeeq.github.io/koolbusiness-ui/car-listing.html 
+https://sayedrafeeq.github.io/KoolBusiness-UI/car-listing.html 
 
 NEW-DESIGN-CONCEPTS:
 
